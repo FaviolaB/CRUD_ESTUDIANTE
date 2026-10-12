@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jose",
+    "apellido": "Moran",
+    "email": "jos2@gamil.com",
+    "carnet": "1234SOF"
+  },
+  {
+    "id": 2,
+    "nombre": "Faviola",
+    "apellido": "Barzola",
+    "email": "favi@gmail.com",
+    "carnet": "23FISIO"
+  }
+]

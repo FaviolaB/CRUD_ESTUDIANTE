@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lengua",
+    "codigo": "L24",
+    "creditos": 4,
+    "docente_id": 1
+  }
+]
